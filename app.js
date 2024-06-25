@@ -1,4 +1,6 @@
-
+ document.querySelector('button').addEventListener('click', function(event) {
+        	 alert("clicked")
+         });
 
 
 
